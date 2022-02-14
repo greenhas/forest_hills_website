@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+baseURL = "https://compassionate-khorana-ffbc8f.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
 # themesDir = "../.."
@@ -24,7 +24,7 @@ enableRobotsTXT = true
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-white"
-  featured_image = "/images/forest_hills_building.jpg"
+  featured_image = "/images/forest_hills_sanctuary.jpg"
   recent_posts_number = 2
 
 [[params.ananke_socials]]
