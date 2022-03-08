@@ -1,7 +1,7 @@
 title = "Forest Hills Community of Christ"
 baseURL = "https://compassionate-khorana-ffbc8f.netlify.app/"
 languageCode = "en-us"
-theme = "ananke"
+theme = "ananke_custom"
 # themesDir = "../.."
 # resourceDir = "../resources"
 
