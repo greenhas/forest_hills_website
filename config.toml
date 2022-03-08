@@ -32,3 +32,17 @@ url = "https://www.facebook.com/cofchrist.foresthills"
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/GoHugoIO"
+
+# Menu links
+[[menu.main]]
+    name = "About Our Congregation"
+    weight = 1
+    url = "/about_congregation"
+[[menu.main]]
+   name = "About Community of Christ"
+   weight = 2
+   url  = "/about_denomination/"
+   [[menu.main]]
+   name = "For Latter-day Seekers"
+   weight = 3
+   url  = "/latter_day_seekers"
