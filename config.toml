@@ -39,18 +39,22 @@ url = "https://twitter.com/cofchrist"
     weight = 1
     url = "/about_congregation"
 [[menu.main]]
+    name = "Events"
+    weight = 2
+    url = "/events"
+[[menu.main]]
    name = "Our Garden & Outreach"
-   weight = 2
+   weight = 3
    url  = "/scripture_garden/"
 [[menu.main]]
    name = "About Community of Christ"
-   weight = 3
+   weight = 4
    url  = "/about_denomination/"
 [[menu.main]]
    name = "For Latter-day Seekers"
-   weight = 4
+   weight = 5
    url  = "/latter_day_seekers"
 [[menu.main]]
    name = "Contact Us"
-   weight = 5
+   weight = 6
    url  = "/contact_us/"
