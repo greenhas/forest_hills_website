@@ -29,9 +29,6 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "facebook"
 url = "https://www.facebook.com/cofchrist.foresthills"
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/cofchrist"
 
 # Menu links
 [[menu.main]]
